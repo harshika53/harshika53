@@ -6,17 +6,13 @@
 
 <h3 align="center">👩‍💻 B.Tech CSE Student | Passionate about Web Development & Cloud ☁️</h3>
 
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshika53&label=Profile%20views&color=0e75b6&style=flat" alt="harshika53" />
 </p>
 
----
+<br><br>
 
-<br>
-
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center"> 
   <a href="mailto:harshikarathod42@gmail.com">
@@ -36,21 +32,17 @@
   </a>
 </div>
 
----
+<br><br>
 
-<br>
-
-### ⚒️ Languages, Frameworks & Tools
+## ⚒️ Skills & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,java,mysql,python,git,github,vscode,figma,vercel,aws,docker" />
 </div>
 
----
+<br><br>
 
-<br>
-
-### ⚡ GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=harshika53&show_icons=true&theme=radical&locale=en&border_radius=10" alt="GitHub Stats" />
@@ -58,9 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshika53&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
----
-
-<br>
+<br><br>
 
 <p align="center" style="font-size:18px; font-weight:bold; color:#ff6f61;">
   🔥 Keep Exploring & Building! 🚀
