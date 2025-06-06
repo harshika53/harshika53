@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 ## ⚒️ Skills & Tools
 
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,java,mysql,python,github,figma,vercel,aws,docker" />
 </div>
 
-<br><br>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -48,8 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshika53&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
-<br><br>
+<br>
 
 <p align="center" style="font-size:18px; font-weight:bold; color:#ff6f61;">
-  🔥 Keep Exploring & Building! 🚀
+     📈 On the Journey of Clean Code!
 </p>
