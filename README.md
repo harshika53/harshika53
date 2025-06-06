@@ -8,6 +8,8 @@
 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshika53&label=Profile%20views&color=0e75b6&style=flat" alt="harshika53" /> </p>
+
 <div align="center">
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
