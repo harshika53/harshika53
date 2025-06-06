@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshika+Rathod!;" />
 </h1>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=harshika53.harshika53)
-
 <h3 align="center">B.Tech CSE Student </h3>
 
 <br/>
