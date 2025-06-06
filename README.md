@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harshika53.harshika53" />
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Harshika+Rathod!" />
 </h1>
@@ -10,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshika53&label=Profile%20views&color=0e75b6&style=flat" alt="harshika53" />
 </p>
 
-<br><br>
+<br>
 
 ## 📫 Get in Touch
 
