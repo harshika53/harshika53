@@ -46,7 +46,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=harshika53&show_icons=true&theme=radical&locale=en&border_radius=10" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshika53&theme=radical&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshika53&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 
 </div>
 
