@@ -45,10 +45,8 @@
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=harshika53&show_icons=true&theme=radical&locale=en&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
-  <br><br>
-
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshika53&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&locale=en&cache_seconds=1800" alt="GitHub Streak Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=harshika53&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800&t=20250606" />
 </div>
 
 
