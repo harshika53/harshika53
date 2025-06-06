@@ -34,7 +34,7 @@
 ### ⚒️ Languages, Frameworks & Tools
 
 <div align="center" style="margin-top:10px; margin-bottom:30px;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react.js,java,mysql,python,git,github,vscode,figma,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,java,mysql,python,git,github,vscode,figma,aws,docker" />
 </div>
 
 ---
