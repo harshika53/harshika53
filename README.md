@@ -12,7 +12,7 @@
 
 <br><br>
 
-## 📫 Let's Connect
+## 📫 Get in Touch
 
 <div align="center"> 
   <a href="mailto:harshikarathod42@gmail.com">
