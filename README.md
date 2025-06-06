@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshika53&label=Profile%20views&color=0e75b6&style=flat" alt="harshika53" />
 </p>
 
--
+
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 </div>
 
--
+
 
 ### 📫 Let's Connect
 
@@ -38,7 +38,7 @@
   </a>
 </div>
 
--
+
 
 ### ⚒️ Languages, Frameworks & Tools
 
@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,mongodb,mysql,firebase,flask,r,git,github,vscode,figma" />
 </div>
 
---
+---
 
 ### ⚡ GitHub Stats
 
