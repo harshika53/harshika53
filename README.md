@@ -6,49 +6,61 @@
 
 <h3 align="center">👩‍💻 B.Tech CSE Student | Passionate about Web Development & Cloud ☁️</h3>
 
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshika53&label=Profile%20views&color=0e75b6&style=flat" alt="harshika53" />
 </p>
 
 ---
 
+<br>
+
 ### 📫 Let's Connect
 
 <div align="center"> 
   <a href="mailto:harshikarathod42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:harshikarathod42@gmail.com" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/harshika-rathod" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harshika-rathod" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://harshika-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://harshika-portfolio.vercel.app/" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/rathod_044/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/u/rathod_044/" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 ---
 
+<br>
+
 ### ⚒️ Languages, Frameworks & Tools
 
-<div align="center" style="margin-top:10px; margin-bottom:30px;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,java,mysql,python,git,github,vscode,figma,vercel,aws,docker" />
 </div>
 
 ---
+
+<br>
+
+### ⚡ GitHub Stats
+
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
-
-  ### ⚡ GitHub Stats
-
   <img src="https://github-readme-stats.vercel.app/api?username=harshika53&show_icons=true&theme=radical&locale=en&border_radius=10" alt="GitHub Stats" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshika53&theme=radical&hide_border=false" alt="Streak Stats" />
-
 </div>
 
-
 ---
+
+<br>
 
 <p align="center" style="font-size:18px; font-weight:bold; color:#ff6f61;">
   🔥 Keep Exploring & Building! 🚀
