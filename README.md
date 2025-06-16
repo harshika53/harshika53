@@ -35,7 +35,7 @@
 ## ⚒️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,java,mysql,python,github,figma,vercel,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,java,mysql,python,github,figma,vercel,aws,docker" />
 </div>
 
 <br>
